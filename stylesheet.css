@@ -1,0 +1,12 @@
+body {
+	font-family: sans-serif;
+}
+
+header {
+	text-align: center;
+}
+
+.section {
+	border-bottom: 1px solid;
+}
+
